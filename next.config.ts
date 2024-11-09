@@ -2,11 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  output: 'export',
-  experimental: {
-    //pwa: true,
-  },
-  //swcMinify: true,
+  //output: 'export', 
 };
 
 export default nextConfig;
