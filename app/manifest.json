@@ -1,7 +1,7 @@
 {
     "name": "Todo App",
     "short_name": "todoApp",
-    "description": "A Todo App, a Progressive Web App built with Next.js",
+    "description": "A Todo App(Progressive Web App built) with Next.js",
     "start_url": "/todo-app/",
     "display": "standalone",
     "background_color": "#ffffff",
