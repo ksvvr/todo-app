@@ -48,7 +48,7 @@ export default function Home() {
   return (
     <>
       <div style={{ textAlign: "center" }}>
-        <h1 className="text-4xl font-bold mt-6">TODO APP</h1>
+        <h1 className="text-5xl font-bold mt-6">TODO APP</h1>
         <input
           className="text-black my-5 p-1"
           type="text"
