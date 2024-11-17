@@ -28,7 +28,7 @@ export default function Home() {
   }, []);
 
   function sortTodos(todoList: Todo[]): Todo[] {
-    let sortedTodos: Todo[] = [];
+    const sortedTodos: Todo[] = [];
     for (let t of todoList) {
       if (!t.isComplete) sortedTodos.push(t);
     }
